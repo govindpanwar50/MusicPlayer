@@ -90,7 +90,7 @@
 <br/>
 
 ```sh
-git clone https://github.com/ZauteKm/MusicPlayer
+git clone https://github.com/govindpanwar50/MusicPlayer
 cd MusicPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
